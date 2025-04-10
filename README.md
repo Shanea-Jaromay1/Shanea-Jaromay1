@@ -1,5 +1,5 @@
 <h1> Hellow cutie 🙈 </h1> 
-<p> My name is Shanea Jaromay. I'm a student at <a href="[http://mths.ca](https://my.studentinfo.ca/)"> St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p> My name is Shanea Jaromay. I'm a student at <a href="http://mths.ca"> St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 <img src="https://avatars.githubusercontent.com/u/197801383?v=4"/>
 
 <h2>🤖 Programming Languages</h2>
@@ -22,6 +22,5 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ## 🎮🐍 My MakeCode Arcade Extension - Escape the snake
-<a href="https://arcade.makecode.com/92639-90145-86453-61358">
-<img src="blob:chrome-untrusted://media-app/7f32ec27-d3fd-4881-b76f-b25b10457d19" alt="Screenshot 2025-04-10 1.18.47 PM.png"/>
+<a href="https://arcade.makecode.com/92639-90145-86453-61358"> ![Image](blob:chrome-untrusted://media-app/7f32ec27-d3fd-4881-b76f-b25b10457d19) 
 
