@@ -23,5 +23,5 @@
 
   ## 🎮🐍 My MakeCode Arcade Extension - Escape the snake
 <a href="https://arcade.makecode.com/92639-90145-86453-61358"> 
-<img src="blob:chrome-untrusted://media-app/225c364d-b0cb-4f1e-93e3-efe1e2261565" alt="Screenshot 2025-04-10 1.18.47 PM.png"/>![image](https://github.com/user-attachments/assets/4f866927-d597-4fa8-a735-c5e9764dceb5)
+<img src="blob:chrome-untrusted://media-app/225c364d-b0cb-4f1e-93e3-efe1e2261565" alt="Screenshot 2025-04-10 1.18.47 PM.png"/> 
 
