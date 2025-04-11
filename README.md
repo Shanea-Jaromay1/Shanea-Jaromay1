@@ -24,3 +24,5 @@
   ## 🎮🐍 My MakeCode Arcade Extension - Escape the snake
 <a href="https://arcade.makecode.com/92639-90145-86453-61358"> ![Image](blob:chrome-untrusted://media-app/7f32ec27-d3fd-4881-b76f-b25b10457d19) 
 
+okay slay
+
