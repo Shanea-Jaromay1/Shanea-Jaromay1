@@ -1,5 +1,5 @@
 <h1> Hellow cutie 🙈 </h1> 
-<p> My name is Shanea Jaromay. I'm a student at <a href="https://my.studentinfo.ca/"> St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p> My name is Shanea Jaromay. I'm a student at <a href="[https://my.studentinfo.ca/](https://my.studentinfo.ca/)"> St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 <img src="https://avatars.githubusercontent.com/u/197801383?v=4"/>
 
 <h2>🤖 Programming Languages</h2>
