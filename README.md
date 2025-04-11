@@ -22,4 +22,4 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ## 🎮🐍 My MakeCode Arcade Extension - Escape the snake
-<a href="https://arcade.makecode.com/92639-90145-86453-61358"> <img src="blob:chrome-untrusted://media-app/ba9cec6a-d18c-4a43-baf0-2156e6cc83db" alt="Screenshot 2025-04-11 10.10.26 AM.png"/>![image](https://github.com/user-attachments/assets/05b83f32-b11e-4140-880d-442c7676c2ec)
+<a href="https://arcade.makecode.com/92639-90145-86453-61358"> ![image](https://github.com/user-attachments/assets/05b83f32-b11e-4140-880d-442c7676c2ec)
